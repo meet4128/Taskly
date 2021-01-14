@@ -1,4 +1,4 @@
- # taskly
+ # Taskly
 
 A new Flutter Taskly App.
 
@@ -6,7 +6,12 @@ A new Flutter Taskly App.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Screen Completed :
+- Splash screen
+- Project listing Screen (API Integration Part)
+- Project Details Screen (API Integration with Color Piker and Edit Project option)
+- Task Edit Screen(Task Info Screen)
+- Create Project Screen ( Color Piker and Create Project Screen)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
